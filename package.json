@@ -1,0 +1,15 @@
+{
+    "name": "pinyin-pro-jsbox",
+    "version": "1.0.0",
+    "description": "汉字转拼音",
+    "main": "main.js",
+    "keywords": [
+        "pinyin",
+        "chinese",
+        "jsbox",
+        "拼音",
+        "汉字"
+    ],
+    "author": "王剑辉",
+    "license": "ISC"
+}
